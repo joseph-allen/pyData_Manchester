@@ -1,5 +1,5 @@
 # PyData Manchester
-Welcome to PyData Manchester, the local chapter of PyData foundation. The PyData community gathers to discuss how best to apply Python tools, as well as other tools and languages, to meet evolving challenges in data management, processing, analytics, and visualization.
+ Welcome to PyData Manchester, the local chapter of PyData foundation. The PyData community gathers to discuss how best to apply Python tools, as well as other tools and languages, to meet evolving challenges in data management, processing, analytics, and visualization.
 
 ## Pandas Data Dive (May 2018)
 ---
@@ -22,6 +22,7 @@ pandas is an open source, BSD-licensed library providing high-performance, easy-
 Apologies that this month we could not get a wheelchair accessible venue.
 
 Pandas is an easy to use set of data structures and data analysis tools which is fundamental in a Python Data Science toolkit, what better library for us to focus at our first meetup. A lot of attendees may already have experience using pandas, so this will be a great opportunity for beginners to get going with this library around some more experienced programmers, and for more experienced developers to share new tips and tricks. This meetup will primarily be a data dive so bring a laptop if you can, if you don't be prepared to pair!
+Pandas is an easy to use set of data structures and data analysis tools which is fundamental in a Python Data Science toolkit, so we thougyht it would be a good focus for our first meetup. This meetup will primarily be a data dive so bring a laptop if you can, if you don't be prepared to pair!
 
 From talks in the community we have realised that everybody has great meetup ideas and we want to provide some of the variety that people are hoping for, this months will be a data dive, but look forward to some more uniquely structured meetups in future months. We are open to any ideas. We really just want to develop the data science community as a place where we can all learn. Looking forward to seeing you all!
 
