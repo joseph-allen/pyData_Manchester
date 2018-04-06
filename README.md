@@ -19,8 +19,6 @@ pandas is an open source, BSD-licensed library providing high-performance, easy-
 [pandas home page](https://pandas.pydata.org/)
 
 
-Apologies that this month we could not get a wheelchair accessible venue.
-
 pandas is an easy to use set of data structures and data analysis tools which is fundamental in a Python Data Science toolkit, what better library for us to focus at our first meetup. A lot of attendees may already have experience using pandas, so this will be a great opportunity for beginners to get going with this library around some more experienced programmers, and for more experienced developers to share new tips and tricks. This meetup will primarily be a data dive so bring a laptop if you can, if you don't be prepared to pair!
 pandas is an easy to use set of data structures and data analysis tools which is fundamental in a Python Data Science toolkit, so we thougyht it would be a good focus for our first meetup. This meetup will primarily be a data dive so bring a laptop if you can, if you don't be prepared to pair!
 
